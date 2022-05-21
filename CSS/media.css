@@ -1,0 +1,36 @@
+/* MEDIA QUERIES */
+@media screen and (max-width: 768px) {
+    .menu {
+        display: block;
+        height: fit-content;
+    }
+    .l{
+        display: none;
+    }
+    .z {
+        display: block;
+        width: 100%;
+        text-align: center;
+        margin: auto;
+        padding: auto;
+        padding: 10px;
+    }
+
+    .tog{
+        display: block;
+    }
+
+    /* CONTACT */
+    .fset{
+        width: fit-content;
+    }
+/* OCCASSION */
+    .imag1{
+        margin-top: 17%;
+    }
+    .imag2{
+        margin-top: 5%;
+    }
+
+/*  */
+}
