@@ -279,7 +279,7 @@ body{
 }
 .message{
     margin: auto;
-    width: 100%;
+    width: fit-content;
     height: fit-content;
     animation-name: message;
     animation-timing-function: linear;
@@ -341,7 +341,7 @@ body{
     width: 20%;
     text-align: center;
     padding: 15px;
-    border-radius: 30px;
+    border-radius: 40px;
     margin-top: 10px;
     color: burlywood;
 }
